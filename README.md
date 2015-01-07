@@ -16,5 +16,3 @@ For reference, phpMyVault has been tested extensively on Ubuntu 14.04 with Apach
 
 ## License ##
 phpMyVault is released under the GPLv3 license. See LICENSE.txt for more details.
-
-## Config.php settings ##
