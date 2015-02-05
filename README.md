@@ -10,9 +10,9 @@ For reference, phpMyVault has been tested extensively on Ubuntu 14.04 with Apach
 
 ## Quickstart guide: ##
 1. Extract phpMyVault to a folder within your web root.
-2. Edit 'resources/config.php' with the correct settings for your environment.
+2. Copy 'resources/config.orig.php' to 'resources/config.php' and edit with the correct settings for your environment.
 3. Open a web browser and navigate to the location where you have extracted all files. You will be redirected to the database initialization page.
-4. Once database initialization is successful, delete index.php. You are now ready to use phpMyVault!
+4. Once database initialization is successful, delete install.php. You are now ready to use phpMyVault!
 
 ## License ##
 phpMyVault is released under the GPLv3 license. See LICENSE.txt for more details.
