@@ -59,7 +59,7 @@ else {
 
 	<body>
 		
-		<div class="bg-primary" style="background: url('images/stripe.png');">
+		<div class="bg-primary">
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-6">
